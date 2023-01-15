@@ -1,0 +1,18 @@
+#Id|Location|Date|Meassure
+1|25.5,45.3|2023-05-25|24.5
+
+
+2. JSON
+[
+  { "id": 1, "location": "25.5,45.3", "date": "2023-05-25", "meassure": 24.5 }
+]
+
+3. XML
+<data>
+  <row>
+    <id>1</id>
+    <location>25.5,45.3</location>
+    <date>2023-05-25</date>
+    <meassure>24.5</meassure>
+  </row>
+</data>
